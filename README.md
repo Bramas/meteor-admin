@@ -1,0 +1,1 @@
+npm install --save griddle-react meteor-node-stubs react react-addons-css-transition-group react-addons-linked-state-mixin react-addons-pure-render-mixin@^15.3.2 react-addons-transition-group react-dom
